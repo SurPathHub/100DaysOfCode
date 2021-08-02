@@ -3,6 +3,8 @@ Create issues to track your progress
 
 [Click me to create issues](https://github.com/SurPathHub/100DaysOfCode/issues) to track your progress.
 
+#### Note: Only create 1 issue, just comment your progress on your first issue!
+
 ---
 
 ## Sample format
