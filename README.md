@@ -18,11 +18,11 @@ Create issues to track your progress
 
 ---
 
-<h4 align="center">Our Mentor & GitHub Star - <a href="https://github.com/eddiejaoude">Eddie Jaoude</a></a>
+<h4 align="center">:octocat:</4>
+<h4 align="center">Our Mentor & GitHub Star <br> <a href="https://github.com/eddiejaoude">Eddie Jaoude</a></a>
 <h2 align="center">❝</h2>
 
-<p align="center">I know this might sound scary, but learning in public and documenting your journey will be incredib❝</h2>
-ly valuable to you but also to those experiencing this with you. Sharing your experiences will not only help you learn faster, but you will be able to communicate better, help others and stand out from the crowd.</p>
+<p align="center">I know this might sound scary, but learning in public and documenting your journey will be incredibly valuable to you but also to those experiencing this with you. Sharing your experiences will not only help you learn faster, but you will be able to communicate better, help others and stand out from the crowd.</p>
 
 <h4 align="center">Learn more from <a href="https://www.eddiejaoude.io/blog-july-2021-open-source-adventures">Eddie's Adventures into Open Source</a></h4>
 <a href="https://www.eddiejaoude.io/blog-july-2021-open-source-adventures" target="_blank"><img src="https://github.com/EddieHubCommunity/Branding/raw/main/community/Eddie_banner_GIF.gif" /></a>
