@@ -12,14 +12,15 @@ Create issues to track your progress
 
 ---
 
-## Why share your progress publicly?
+<h2 align="center"> Why share your progress publicly?</h2>
 
-Sharing your progress here may help the aspiring software engineer or developer in the future events of #100DaysOfCode
+<p align="center">Sharing your progress here may help the aspiring software engineer or developer in the future events of #100DaysOfCode</p>
 
 
-#### Our Mentor & GitHub Star - [Eddie Jaoude](https://github.com/eddiejaoude) message:
+<h4 align="center">Our Mentor & GitHub Star - <a href="https://github.com/eddiejaoude">Eddie Jaoude</a><br>- - -</a>
 
-I know this might sound scary, but learning in public and documenting your journey will be incredibly valuable to you but also to those experiencing this with you. Sharing your experiences will not only help you learn faster, but you will be able to communicate better, help others and stand out from the crowd.
+<p align="center">I know this might sound scary, but learning in public and documenting your journey will be incredibly valuable to you but also to those experiencing this with you. Sharing your experiences will not only help you learn faster, but you will be able to communicate better, help others and stand out from the crowd.</p>
 
-Learn more from [Eddie's Adventures into Open Source](https://www.eddiejaoude.io/blog-july-2021-open-source-adventures)
+<h4 align="center">Learn more from <a href="https://www.eddiejaoude.io/blog-july-2021-open-source-adventures">Eddie's Adventures into Open Source</a></h4>
+<a href="https://www.eddiejaoude.io/blog-july-2021-open-source-adventures" target="_blank"><img src="https://github.com/EddieHubCommunity/Branding/raw/main/community/Eddie_banner_GIF.gif" /></a>
 
