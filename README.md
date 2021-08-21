@@ -1,10 +1,10 @@
 # 100DaysOfCode
-Create issues to track your progress
+After #100DaysOfCode, submit your final project [here](https://github.com/SurPathHub/showcase-your-project).
 
-[Click me to create issues](https://github.com/SurPathHub/100DaysOfCode/issues) to track your progress.
-
-#### Note: Only create 1 issue, just comment your progress on your first issue!
-
+- Create issues to track your progress
+- [Click me to create issues](https://github.com/SurPathHub/100DaysOfCode/issues) to track your progress.
+- Only create 1 issue, just comment your progress on your first issue!
+- Don't forget the [rules](https://github.com/SurPathHub/events/issues/28). 
 ---
 
 ## Sample format
